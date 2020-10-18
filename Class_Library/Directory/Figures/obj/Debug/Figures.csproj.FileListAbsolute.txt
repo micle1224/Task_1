@@ -1,0 +1,6 @@
+D:\Task\Task\Class_Library\Directory\Figures\bin\Debug\Figures.dll
+D:\Task\Task\Class_Library\Directory\Figures\bin\Debug\Figures.pdb
+D:\Task\Task\Class_Library\Directory\Figures\obj\Debug\Figures.csprojAssemblyReference.cache
+D:\Task\Task\Class_Library\Directory\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+D:\Task\Task\Class_Library\Directory\Figures\obj\Debug\Figures.dll
+D:\Task\Task\Class_Library\Directory\Figures\obj\Debug\Figures.pdb

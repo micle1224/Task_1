@@ -1,0 +1,10 @@
+D:\Task\Task\Task\bin\Debug\Task.exe.config
+D:\Task\Task\Task\bin\Debug\Task.exe
+D:\Task\Task\Task\bin\Debug\Task.pdb
+D:\Task\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+D:\Task\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\Task\Task\Task\obj\Debug\Task.exe
+D:\Task\Task\Task\obj\Debug\Task.pdb
+D:\Task\Task\Task\bin\Debug\Figures.dll
+D:\Task\Task\Task\bin\Debug\Figures.pdb
+D:\Task\Task\Task\obj\Debug\Task.csproj.CopyComplete
